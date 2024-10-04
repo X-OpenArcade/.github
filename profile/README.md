@@ -7,7 +7,7 @@ The only rule: You must attribute the "Xandr's OpenArcade" project, which is don
 - Slots
 - Rock, Paper, Scissors
 - Guess the Number
-- Memory
+- Memory  
 you must include the watermark/logo at the bottom. All other games/tools are made by others and aren't made by the project, letting you not include the watermark/logo there.
 Thanks for playing!
 -Xandr, creator of Xandr's OpenArcade
